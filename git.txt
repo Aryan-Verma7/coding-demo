@@ -1,0 +1,21 @@
+✅ Version Control System (VCS)
+A tool that tracks changes in code or files.
+Lets multiple people work on a project without overwriting each other’s work.
+Helps you roll back to older versions if something breaks.
+Keeps a full history of changes with dates and authors.
+✅ Git
+The most popular distributed VCS today.
+Works offline and stores a full copy of the project on every machine.
+Fast, secure, and reliable.
+Used with platforms like GitHub, GitLab, and Bitbucket.
+Best for modern software development and teamwork.
+✅ CVS (Concurrent Version System)
+One of the oldest version control systems.
+Centralized system: one main server stores the project.
+Used before Git and Subversion became popular.
+Still found in some legacy projects, but not common now.
+✅ Mercurial
+Distributed system like Git.
+Simple to learn and has a clean command set.
+Works well for large projects with many developers.
+Used by some major companies in the past (Mozilla once used it).
